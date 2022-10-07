@@ -5,7 +5,7 @@
 1) Download the folder of the algorithm you want to check. Go into that folder.
 2) For miller-rabin you can remove the main and check for any prime upto 7 digits. The default main just counts all prime numbers between 1 and 100000 and prints them, you can use this also.
 3) For RSA enter the range of the first prime number and then for the second number second prime number. Then just enter the number you want to send.
-4) For encryption using RSA just download RSAEncryption and then compile RSAe.cpp then execute a.out. After this provide the name of the file you want encrypted as an argument file.txt is present for this purpose you can write file.txt then it will display the coded and the decoded files.
+4) For encryption using RSA just go to RSAEncryption and then compile RSAe.cpp then execute a.out. After this provide the name of the file you want encrypted as an argument file.txt is present for this purpose you can write file.txt then it will display the coded and the decoded files.
 5) For Diffie-Helman the prime and the generator is hardcoded. Just enter two numbers (A's side and B's ide) then you would get the final key decided at the terminal.
 6) Preferably keep the numbers less than 6 digits as exponentiation is involved.
 
